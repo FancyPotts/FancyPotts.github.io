@@ -1,5 +1,5 @@
 # Portfolio Website
-- Showcase my web development abilities, as well as demonstrate my ability to work with other languages with projects
+Showcase my web development abilities, as well as demonstrate my ability to work with other languages with projects
 
 ## To do
 - Create 404 Page
