@@ -6,7 +6,7 @@ Showcase my web development abilities, as well as demonstrate my ability to work
 - make aaronfpotts.io domain work with FancyPotts.github.io
 - Create 404 Page
 - Add projects
-    - Connect projects, deploy them for use.
+    - Connect projects, deploy them for demo.
 - Add tibbits about self on Hero
     - What words would I choose to define myself, brief definitions and association
 - Add Languages
